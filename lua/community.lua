@@ -15,5 +15,7 @@ return {
   { import = "astrocommunity.utility.noice-nvim" },
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.motion.mini-surround" },
+
+  { import = "astrocommunity.recipes.heirline-nvchad-statusline" },
   -- import/override with your plugins folder
 }
