@@ -11,6 +11,9 @@ return {
   { import = "astrocommunity.pack.rust" },
 
   { import = "astrocommunity.colorscheme.catppuccin" },
+
+  { import = "astrocommunity.utility.noice-nvim" },
+  { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.motion.mini-surround" },
   -- import/override with your plugins folder
 }
