@@ -9,6 +9,8 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.pack.toml" },
 
   { import = "astrocommunity.colorscheme.catppuccin" },
 
