@@ -22,5 +22,6 @@ return {
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
 
   { import = "astrocommunity.code-runner.overseer-nvim" },
-  -- import/override with your plugins folder
+
+  { import = "astrocommunity.completion.codeium-nvim" },
 }
