@@ -22,6 +22,4 @@ return {
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
 
   { import = "astrocommunity.code-runner.overseer-nvim" },
-
-  { import = "astrocommunity.completion.codeium-nvim" },
 }
